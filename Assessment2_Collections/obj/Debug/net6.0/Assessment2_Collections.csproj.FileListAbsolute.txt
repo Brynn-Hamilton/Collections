@@ -1,0 +1,15 @@
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\bin\Debug\net6.0\Assessment2_Collections.exe
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\bin\Debug\net6.0\Assessment2_Collections.deps.json
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\bin\Debug\net6.0\Assessment2_Collections.runtimeconfig.json
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\bin\Debug\net6.0\Assessment2_Collections.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\bin\Debug\net6.0\Assessment2_Collections.pdb
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.csproj.AssemblyReference.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.AssemblyInfoInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.AssemblyInfo.cs
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.csproj.CoreCompileInputs.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\refint\Assessment2_Collections.dll
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.pdb
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\Assessment2_Collections.genruntimeconfig.cache
+C:\Users\BHamilton3\DevBuild8_GC\Assessment2_Collections\Assessment2_Collections\obj\Debug\net6.0\ref\Assessment2_Collections.dll
